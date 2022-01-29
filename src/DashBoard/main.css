@@ -1,0 +1,39 @@
+/** Global **/
+.menu-sm{
+    background-color: white;
+    min-height: 100vh;
+    padding-top: 7px;
+    width: 90px
+  }
+  .menu-md{
+    background-color: #fbfbfb;
+    min-height: 100vh;
+    padding-top: 60px;
+  }
+  
+  .content-lg{
+    background-color: white;
+    padding-top: 60px;
+  }
+  .content-md{
+    background-color: white;
+    padding-top: 60px;
+  }
+
+  .heading-text{
+      font-size: 22px;
+      font-weight: 900;
+  }
+  
+  /** Dashborad Index.js */
+  .bg-img{
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border-radius: 10px;
+  }
+
+  .bg-img p{
+      color: white;
+      margin-top: 10px;
+  }
