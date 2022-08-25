@@ -1,0 +1,33 @@
+.auth-img-container{
+    padding: 30px;
+    background-color: #61dafb;
+    height: 100vh;
+    background-image: url("../../Assets/bkg/login_bkg_1.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth-img-container-sub{
+    padding: 20px;
+    background-color: #b82576;
+    display: flex;
+    flex: 1;
+    height: 80vh;
+}
+.auth-left{
+    background-color: #b82576;
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+}
+.auth-right{
+    background-color: #ffffff;
+    padding: 30px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
